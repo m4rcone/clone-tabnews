@@ -1,3 +1,3 @@
-# projectX
+# clone-tabnews
 
-Let's see what comes out.
+Projeto para praticar através do https://curso.dev clonando o https://tabnews.com.br
